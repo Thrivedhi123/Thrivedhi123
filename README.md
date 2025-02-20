@@ -1,6 +1,5 @@
 ## Hi there! 👋 I'm Thrivedhi Sreenivas  
 
-🎓 **Final Year Computer Science Student** at BMSIT (CGPA: 9.36)  
 💡 Passionate about **Problem Solving, Data Science, AI/ML, and Cloud Technologies**  
 🔭 Currently exploring **Artificial Intelligence, Machine Learning, Data Science, and Cloud Technologies**  
 📌 Active in **Competitive Programming, Open Source, and Tech Communities**  
@@ -10,24 +9,28 @@
 ### 🛠 Tech Stack  
 
 #### 🚀 Languages  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
 #### 🛠 Frameworks & Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>  
 
-#### 🔧 Core Concepts  
-✔ DSA  
-✔ OOPS  
-✔ OS  
-✔ DBMS  
-✔ DCN
+#### 🔧 Core Subjects & Concepts  
+✔ Data Structures & Algorithms (DSA)  
+✔ Object-Oriented Programming (OOP)  
+✔ Operating Systems (OS)  
+✔ Database Management Systems (DBMS)  
+✔ Computer Networks (DCN)
 
 ---
 
