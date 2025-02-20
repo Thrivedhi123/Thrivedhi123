@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Thrivedhi Sreenivas  
+## Hi there! 👋 I'm Thrivedhi Sreenivas D
 
 💡 Passionate about **Problem Solving, Data Science, AI/ML, and Cloud Technologies**  
 🔭 Currently exploring **Artificial Intelligence, Machine Learning, Data Science, and Cloud Technologies**  
