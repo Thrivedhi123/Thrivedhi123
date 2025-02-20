@@ -2,7 +2,7 @@
 
 💡 Passionate about **Problem Solving, Data Science, AI/ML, and Cloud Technologies**  
 🔭 Currently exploring **Artificial Intelligence, Machine Learning, Data Science, and Cloud Technologies**  
-📌 Active in **Competitive Programming, Open Source, and Tech Communities**  
+📌   Final Year CSE Student pursuing Bachelors degree at BMSIT
 
 ---
 
